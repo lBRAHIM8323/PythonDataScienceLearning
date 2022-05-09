@@ -1,2 +1,3 @@
-a=print("GIT")
-b=print("lol")
+nfioje
+ipejwpoee
+oijesoifj
